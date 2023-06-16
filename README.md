@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### About Project
+
+This project is developed to understand how the react state works .Using this the user can check how the element would be if the were to be use multiple types of sizes in their project. They can also check the color of the hex code or how ti will look in this website
